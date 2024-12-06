@@ -1,11 +1,11 @@
 # CSE469-P1
 
-Group: 20\n
-Members:\n
-    \tEthan Hodge\n
-    \tEaston Kelso\n
-    \tAndrew Sheppard\n
-    \tMihn Tran\n
+Group: 20
+Members:
+    Ethan Hodge
+    Easton Kelso
+    Andrew Sheppard
+    Mihn Tran
 
 The progam begins every execution by reading a provided binary file that
 represents a blockcahin. This binary is turned into an array of tuples 
